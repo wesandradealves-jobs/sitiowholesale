@@ -1,0 +1,36 @@
+[09-Dec-2018 19:58:58 Asia/Tokyo] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home1/sitio/public_html/adm/editar_produto.php on line 88
+[09-Dec-2018 19:58:58 Asia/Tokyo] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home1/sitio/public_html/adm/editar_produto.php on line 182
+[09-Dec-2018 19:58:58 Asia/Tokyo] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home1/sitio/public_html/adm/editar_produto.php on line 216
+[09-Dec-2018 19:58:58 Asia/Tokyo] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home1/sitio/public_html/adm/editar_produto.php on line 361
+[09-Dec-2018 19:58:58 Asia/Tokyo] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home1/sitio/public_html/adm/editar_produto.php on line 363
+[14-Dec-2018 23:31:43 Asia/Tokyo] PHP Warning:  mysqli_connect(): (08004/1040): Too many connections in /home1/sitio/public_html/adm/conexao.php on line 15
+[14-Dec-2018 23:31:43 Asia/Tokyo] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home1/sitio/public_html/adm/menu_admin.php on line 16
+[14-Dec-2018 23:31:43 Asia/Tokyo] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home1/sitio/public_html/adm/menu_admin.php on line 20
+[14-Dec-2018 23:31:43 Asia/Tokyo] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home1/sitio/public_html/adm/cad_produto.php on line 76
+[14-Dec-2018 23:31:43 Asia/Tokyo] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home1/sitio/public_html/adm/cad_produto.php on line 77
+[14-Dec-2018 23:31:43 Asia/Tokyo] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home1/sitio/public_html/adm/cad_produto.php on line 97
+[14-Dec-2018 23:31:43 Asia/Tokyo] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home1/sitio/public_html/adm/cad_produto.php on line 98
+[14-Dec-2018 23:31:43 Asia/Tokyo] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home1/sitio/public_html/adm/cad_produto.php on line 113
+[14-Dec-2018 23:31:43 Asia/Tokyo] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home1/sitio/public_html/adm/cad_produto.php on line 114
+[14-Dec-2018 23:31:43 Asia/Tokyo] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home1/sitio/public_html/adm/cad_produto.php on line 129
+[14-Dec-2018 23:31:43 Asia/Tokyo] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home1/sitio/public_html/adm/cad_produto.php on line 130
+[14-Dec-2018 23:31:43 Asia/Tokyo] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home1/sitio/public_html/adm/cad_produto.php on line 258
+[14-Dec-2018 23:31:43 Asia/Tokyo] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home1/sitio/public_html/adm/cad_produto.php on line 259
+[14-Dec-2018 23:35:41 Asia/Tokyo] PHP Warning:  mysqli_connect(): (08004/1040): Too many connections in /home1/sitio/public_html/adm/conexao.php on line 15
+[14-Dec-2018 23:35:41 Asia/Tokyo] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home1/sitio/public_html/adm/menu_admin.php on line 16
+[14-Dec-2018 23:35:41 Asia/Tokyo] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home1/sitio/public_html/adm/menu_admin.php on line 20
+[05-Feb-2019 08:23:26 Asia/Tokyo] PHP Warning:  mysqli_connect(): (HY000/2003): Can't connect to MySQL server on 'LOCALHOST' (101) in /home1/sitio/public_html/adm/conexao.php on line 15
+[05-Feb-2019 08:23:26 Asia/Tokyo] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home1/sitio/public_html/adm/menu_admin.php on line 16
+[05-Feb-2019 08:23:26 Asia/Tokyo] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home1/sitio/public_html/adm/menu_admin.php on line 20
+[05-Feb-2019 08:23:26 Asia/Tokyo] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home1/sitio/public_html/adm/cad_produto.php on line 76
+[05-Feb-2019 08:23:26 Asia/Tokyo] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home1/sitio/public_html/adm/cad_produto.php on line 77
+[05-Feb-2019 08:23:26 Asia/Tokyo] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home1/sitio/public_html/adm/cad_produto.php on line 97
+[05-Feb-2019 08:23:26 Asia/Tokyo] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home1/sitio/public_html/adm/cad_produto.php on line 98
+[05-Feb-2019 08:23:26 Asia/Tokyo] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home1/sitio/public_html/adm/cad_produto.php on line 113
+[05-Feb-2019 08:23:26 Asia/Tokyo] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home1/sitio/public_html/adm/cad_produto.php on line 114
+[05-Feb-2019 08:23:26 Asia/Tokyo] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home1/sitio/public_html/adm/cad_produto.php on line 129
+[05-Feb-2019 08:23:26 Asia/Tokyo] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home1/sitio/public_html/adm/cad_produto.php on line 130
+[05-Feb-2019 08:23:26 Asia/Tokyo] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home1/sitio/public_html/adm/cad_produto.php on line 258
+[05-Feb-2019 08:23:26 Asia/Tokyo] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home1/sitio/public_html/adm/cad_produto.php on line 259
+[05-Feb-2019 08:23:33 Asia/Tokyo] PHP Warning:  mysqli_connect(): (HY000/2003): Can't connect to MySQL server on 'LOCALHOST' (101) in /home1/sitio/public_html/adm/conexao.php on line 15
+[05-Feb-2019 08:23:33 Asia/Tokyo] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home1/sitio/public_html/adm/valida_login.php on line 8

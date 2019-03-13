@@ -1,0 +1,23 @@
+[29-Oct-2018 20:31:26 Asia/Tokyo] PHP Warning:  mysqli_affected_rows() expects exactly 1 parameter, 0 given in /home1/sitio/public_html/adm/processa/proc_edit_usuario.php on line 34
+[29-Oct-2018 22:29:44 Asia/Tokyo] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home1/sitio/public_html/adm/processa/categoria_x_subcategoria.php on line 17
+[29-Oct-2018 22:36:37 Asia/Tokyo] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home1/sitio/public_html/adm/processa/categoria_x_subcategoria.php on line 17
+[30-Oct-2018 17:09:18 Asia/Tokyo] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home1/sitio/public_html/adm/processa/categoria_x_subcategoria.php on line 17
+[06-Nov-2018 00:03:12 Asia/Tokyo] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home1/sitio/public_html/adm/processa/categoria_x_subcategoria.php on line 17
+[18-Nov-2018 13:23:48 Asia/Tokyo] PHP Warning:  mysqli_affected_rows() expects exactly 1 parameter, 0 given in /home1/sitio/public_html/adm/processa/proc_edit_usuario.php on line 34
+[18-Nov-2018 15:10:47 Asia/Tokyo] PHP Warning:  unlink(../imagens/CAT_98.jpg): No such file or directory in /home1/sitio/public_html/adm/processa/proc_apagar_cat_prod.php on line 10
+[18-Nov-2018 18:59:39 Asia/Tokyo] PHP Warning:  unlink(../imagens/21.jpg): No such file or directory in /home1/sitio/public_html/adm/processa/proc_edit_ordem_imagem.php on line 73
+[21-Nov-2018 00:14:25 Asia/Tokyo] PHP Warning:  mysqli_affected_rows() expects exactly 1 parameter, 0 given in /home1/sitio/public_html/adm/processa/proc_cad_usuario.php on line 27
+[21-Nov-2018 00:22:49 Asia/Tokyo] PHP Warning:  mysqli_affected_rows() expects exactly 1 parameter, 0 given in /home1/sitio/public_html/adm/processa/proc_apagar_usuario.php on line 10
+[21-Nov-2018 00:22:49 Asia/Tokyo] PHP Warning:  mysqli_affected_rows() expects exactly 1 parameter, 0 given in /home1/sitio/public_html/adm/processa/proc_apagar_usuario.php on line 22
+[03-Dec-2018 13:09:24 Asia/Tokyo] PHP Warning:  mysqli_affected_rows() expects exactly 1 parameter, 0 given in /home1/sitio/public_html/adm/processa/proc_cad_usuario.php on line 27
+[11-Dec-2018 17:17:14 Asia/Tokyo] PHP Warning:  unlink(../imagens/138.jpg): No such file or directory in /home1/sitio/public_html/adm/processa/proc_edit_ordem_imagem.php on line 73
+[14-Dec-2018 23:31:44 Asia/Tokyo] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home1/sitio/public_html/adm/processa/categoria_x_subcategoria.php on line 17
+[18-Dec-2018 02:51:32 Asia/Tokyo] PHP Warning:  mysqli_affected_rows() expects exactly 1 parameter, 0 given in /home1/sitio/public_html/adm/processa/proc_edit_usuario.php on line 34
+[14-Jan-2019 15:51:39 Asia/Tokyo] PHP Warning:  mysqli_affected_rows() expects exactly 1 parameter, 0 given in /home1/sitio/public_html/adm/processa/proc_edit_usuario.php on line 34
+[23-Jan-2019 13:14:45 Asia/Tokyo] PHP Warning:  mysqli_affected_rows() expects exactly 1 parameter, 0 given in /home1/sitio/public_html/adm/processa/proc_edit_usuario.php on line 34
+[31-Jan-2019 16:04:29 Asia/Tokyo] PHP Warning:  mysqli_affected_rows() expects exactly 1 parameter, 0 given in /home1/sitio/public_html/adm/processa/proc_edit_usuario.php on line 34
+[07-Feb-2019 17:48:25 Asia/Tokyo] PHP Warning:  unlink(../imagens/CAT_129.jpg): No such file or directory in /home1/sitio/public_html/adm/processa/proc_apagar_cat_prod.php on line 10
+[10-Feb-2019 00:54:58 Asia/Tokyo] PHP Warning:  unlink(../imagens/973.jpg): No such file or directory in /home1/sitio/public_html/adm/processa/proc_edit_ordem_imagem.php on line 73
+[10-Feb-2019 23:49:39 Asia/Tokyo] PHP Warning:  mysqli_affected_rows() expects exactly 1 parameter, 0 given in /home1/sitio/public_html/adm/processa/proc_cad_usuario.php on line 27
+[13-Feb-2019 05:00:10 Asia/Tokyo] PHP Warning:  unlink(../imagens/CAT_106.jpg): No such file or directory in /home1/sitio/public_html/adm/processa/proc_apagar_cat_prod.php on line 10
+[13-Feb-2019 20:38:31 Asia/Tokyo] PHP Warning:  unlink(../imagens/CAT_139.jpg): No such file or directory in /home1/sitio/public_html/adm/processa/proc_apagar_cat_prod.php on line 10

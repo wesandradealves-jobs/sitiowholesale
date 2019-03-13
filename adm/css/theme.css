@@ -1,0 +1,86 @@
+body {
+  font-family: "Lucida Grande", "Hiragino Kaku Gothic ProN", Meiryo, sans-serif, "arial", "verdana";
+  padding-top: 0px;
+  padding-bottom: 100px;
+}
+
+.theme-dropdown .dropdown-menu {
+  position: static;
+  display: block;
+  margin-bottom: 20px;
+}
+
+.theme-showcase > p > .btn {
+  margin: 5px 0;
+}
+
+.theme-showcase .navbar .container {
+  width: auto;
+}
+
+.espaco{
+	margin-bottom:15px;
+}
+
+
+
+#cart0{
+  padding-left: 20px;
+  padding-right: 35px;  
+}
+
+#qt_cart{
+  border-radius: 10px;
+  position: absolute;
+  text-align: center;
+  color: #FFFFFF;
+  width: 32px;
+  height: 15px;
+  top: 30px;
+  border: 1px solid;
+  border-color:#FFFFFF;
+  margin: 0 auto;
+  background-color: #000000;
+}
+#qttotal{
+  position: absolute;
+  text-align: center;
+  width: 30px;
+  height: 15px;
+  top: -9px;
+  margin: 0 auto;
+}
+
+
+/*-- LOADING --*/
+#blanket,#aguarde {
+  position: fixed;
+  display: none;
+}
+
+#blanket {
+  left: 0;
+  top: 0;
+  background-color: #f0f0f0;
+  filter: alpha(opacity =         65);
+  height: 100%;
+  width: 100%;
+  -ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=65)";
+  opacity: 0.65;
+  z-index: 9998;
+}
+
+#aguarde {
+  width: 128px;
+  height: 128px;
+  top: 40%;
+  left: 45%;
+  background: url('../../images/preloader.gif') no-repeat 0 100%;
+  line-height: 30px;
+  font-weight: bold;
+  font-family: Arial, Helvetica, sans-serif;
+  z-index: 9999;
+  padding-left: 27px;
+}
+
+/*-- LOADING --*/

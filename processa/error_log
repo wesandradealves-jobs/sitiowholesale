@@ -1,0 +1,150 @@
+[14-Feb-2019 19:31:56 Asia/Tokyo] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home1/sitio/public_html/processa/proc_cad_cliente.php:69) in /home1/sitio/public_html/processa/proc_cad_cliente.php on line 93
+[15-Feb-2019 08:40:13 Asia/Tokyo] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home1/sitio/public_html/processa/proc_cad_cliente.php:69) in /home1/sitio/public_html/processa/proc_cad_cliente.php on line 93
+[16-Feb-2019 11:30:53 Asia/Tokyo] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home1/sitio/public_html/processa/proc_cad_cliente.php:69) in /home1/sitio/public_html/processa/proc_cad_cliente.php on line 93
+[23-Feb-2019 05:07:01 Asia/Tokyo] PayPal NVP Error[10002]: You do not have permissions to make this API call
+
+[23-Feb-2019 05:07:19 Asia/Tokyo] PayPal NVP Error[10002]: You do not have permissions to make this API call
+
+[23-Feb-2019 05:07:28 Asia/Tokyo] PayPal NVP Error[10002]: You do not have permissions to make this API call
+
+[23-Feb-2019 05:10:23 Asia/Tokyo] PayPal NVP Error[10002]: You do not have permissions to make this API call
+
+[23-Feb-2019 05:20:39 Asia/Tokyo] PayPal NVP Error[10002]: Security header is not valid
+
+[23-Feb-2019 05:20:52 Asia/Tokyo] PayPal NVP Error[10002]: Security header is not valid
+
+[23-Feb-2019 05:22:05 Asia/Tokyo] PayPal NVP Error[10002]: Security header is not valid
+
+[24-Feb-2019 01:44:15 Asia/Tokyo] PayPal NVP Error[10002]: Security header is not valid
+
+[24-Feb-2019 01:44:21 Asia/Tokyo] PayPal NVP Error[10002]: Security header is not valid
+
+[24-Feb-2019 01:49:59 Asia/Tokyo] PayPal NVP Error[10002]: Security header is not valid
+
+[24-Feb-2019 01:50:06 Asia/Tokyo] PayPal NVP Error[10002]: Security header is not valid
+
+[24-Feb-2019 01:50:17 Asia/Tokyo] PayPal NVP Error[10002]: Security header is not valid
+
+[24-Feb-2019 01:50:26 Asia/Tokyo] PayPal NVP Error[10002]: You do not have permissions to make this API call
+
+[24-Feb-2019 01:50:44 Asia/Tokyo] PayPal NVP Error[10002]: You do not have permissions to make this API call
+
+[24-Feb-2019 01:54:58 Asia/Tokyo] PayPal NVP Error[10002]: Security header is not valid
+
+[24-Feb-2019 01:55:55 Asia/Tokyo] PayPal NVP Error[10002]: Security header is not valid
+
+[24-Feb-2019 02:00:39 Asia/Tokyo] PayPal NVP Error[10002]: Security header is not valid
+
+[27-Feb-2019 10:39:59 Asia/Tokyo] PayPal NVP Error[10002]: Security header is not valid
+
+[27-Feb-2019 10:40:04 Asia/Tokyo] PayPal NVP Error[10002]: Security header is not valid
+
+[27-Feb-2019 10:45:37 Asia/Tokyo] PayPal NVP Error[10002]: Security header is not valid
+
+[27-Feb-2019 10:45:51 Asia/Tokyo] PayPal NVP Error[10002]: Security header is not valid
+
+[27-Feb-2019 11:08:47 Asia/Tokyo] PayPal NVP Error[10002]: Security header is not valid
+
+[08-Mar-2019 03:07:27 Asia/Tokyo] PayPal NVP Error[10405]: CancelURL is missing.
+
+[08-Mar-2019 03:07:36 Asia/Tokyo] PayPal NVP Error[10405]: CancelURL is missing.
+
+[08-Mar-2019 03:08:00 Asia/Tokyo] PayPal NVP Error[10405]: CancelURL is missing.
+
+[08-Mar-2019 03:08:34 Asia/Tokyo] PayPal NVP Error[10405]: CancelURL is missing.
+
+[08-Mar-2019 03:09:01 Asia/Tokyo] PayPal NVP Error[10405]: CancelURL is missing.
+
+[08-Mar-2019 03:13:28 Asia/Tokyo] PayPal NVP Error[10002]: Security header is not valid
+
+[08-Mar-2019 04:13:44 Asia/Tokyo] PHP Fatal error:  Call to undefined function GetExpressCheckoutDetails() in /home1/sitio/public_html/processa/paypal_retorno.php on line 88
+[08-Mar-2019 04:14:44 Asia/Tokyo] PHP Warning:  require_once(PaypalExpress.class.php): failed to open stream: No such file or directory in /home1/sitio/public_html/processa/paypal_retorno.php on line 5
+[08-Mar-2019 04:14:44 Asia/Tokyo] PHP Fatal error:  require_once(): Failed opening required 'PaypalExpress.class.php' (include_path='.:/opt/php56/lib/php') in /home1/sitio/public_html/processa/paypal_retorno.php on line 5
+[08-Mar-2019 04:14:44 Asia/Tokyo] PHP Warning:  require_once(PaypalExpress.class.php): failed to open stream: No such file or directory in /home1/sitio/public_html/processa/paypal_retorno.php on line 5
+[08-Mar-2019 04:14:44 Asia/Tokyo] PHP Fatal error:  require_once(): Failed opening required 'PaypalExpress.class.php' (include_path='.:/opt/php56/lib/php') in /home1/sitio/public_html/processa/paypal_retorno.php on line 5
+[08-Mar-2019 04:15:27 Asia/Tokyo] PHP Fatal error:  Call to undefined function GetExpressCheckoutDetails() in /home1/sitio/public_html/processa/paypal_retorno.php on line 89
+[08-Mar-2019 04:18:52 Asia/Tokyo] PHP Fatal error:  Call to undefined function validate() in /home1/sitio/public_html/processa/paypal_retorno.php on line 89
+[08-Mar-2019 04:18:54 Asia/Tokyo] PHP Fatal error:  Call to undefined function validate() in /home1/sitio/public_html/processa/paypal_retorno.php on line 89
+[08-Mar-2019 04:31:20 Asia/Tokyo] PHP Warning:  require_once(../../../wp-load.php): failed to open stream: No such file or directory in /home1/sitio/public_html/plugin-template-master/fulfillorder.php on line 4
+[08-Mar-2019 04:31:20 Asia/Tokyo] PHP Fatal error:  require_once(): Failed opening required '../../../wp-load.php' (include_path='.:/opt/php56/lib/php') in /home1/sitio/public_html/plugin-template-master/fulfillorder.php on line 4
+[08-Mar-2019 04:32:48 Asia/Tokyo] PHP Warning:  require_once(plugin-template-master/paypalfunctions.php): failed to open stream: No such file or directory in /home1/sitio/public_html/processa/paypal_retorno.php on line 25
+[08-Mar-2019 04:32:48 Asia/Tokyo] PHP Fatal error:  require_once(): Failed opening required 'plugin-template-master/paypalfunctions.php' (include_path='.:/opt/php56/lib/php') in /home1/sitio/public_html/processa/paypal_retorno.php on line 25
+[08-Mar-2019 04:33:05 Asia/Tokyo] PHP Warning:  require_once(../../../wp-load.php): failed to open stream: No such file or directory in /home1/sitio/public_html/plugin-template-master/fulfillorder.php on line 4
+[08-Mar-2019 04:33:05 Asia/Tokyo] PHP Fatal error:  require_once(): Failed opening required '../../../wp-load.php' (include_path='.:/opt/php56/lib/php') in /home1/sitio/public_html/plugin-template-master/fulfillorder.php on line 4
+[08-Mar-2019 04:55:30 Asia/Tokyo] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home1/sitio/public_html/processa/email_pedido.php on line 3
+[08-Mar-2019 04:55:30 Asia/Tokyo] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home1/sitio/public_html/processa/email_pedido.php on line 98
+[08-Mar-2019 04:55:30 Asia/Tokyo] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home1/sitio/public_html/processa/email_pedido.php on line 170
+[08-Mar-2019 04:55:30 Asia/Tokyo] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home1/sitio/public_html/processa/email_pedido.php on line 190
+[08-Mar-2019 06:35:23 Asia/Tokyo] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home1/sitio/public_html/processa/email_pedido.php on line 3
+[08-Mar-2019 06:35:23 Asia/Tokyo] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home1/sitio/public_html/processa/email_pedido.php on line 98
+[08-Mar-2019 06:35:23 Asia/Tokyo] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home1/sitio/public_html/processa/email_pedido.php on line 170
+[08-Mar-2019 06:35:23 Asia/Tokyo] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home1/sitio/public_html/processa/email_pedido.php on line 190
+[08-Mar-2019 06:35:26 Asia/Tokyo] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home1/sitio/public_html/processa/email_pedido.php on line 3
+[08-Mar-2019 06:35:26 Asia/Tokyo] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home1/sitio/public_html/processa/email_pedido.php on line 98
+[08-Mar-2019 06:35:26 Asia/Tokyo] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home1/sitio/public_html/processa/email_pedido.php on line 170
+[08-Mar-2019 06:35:26 Asia/Tokyo] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home1/sitio/public_html/processa/email_pedido.php on line 190
+[08-Mar-2019 07:51:58 Asia/Tokyo] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home1/sitio/public_html/processa/email_pedido.php on line 3
+[08-Mar-2019 07:51:58 Asia/Tokyo] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home1/sitio/public_html/processa/email_pedido.php on line 98
+[08-Mar-2019 07:51:58 Asia/Tokyo] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home1/sitio/public_html/processa/email_pedido.php on line 170
+[08-Mar-2019 07:51:58 Asia/Tokyo] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home1/sitio/public_html/processa/email_pedido.php on line 190
+[08-Mar-2019 13:47:01 Asia/Tokyo] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home1/sitio/public_html/processa/paypal_retorno.php on line 38
+[08-Mar-2019 13:47:01 Asia/Tokyo] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home1/sitio/public_html/processa/paypal_retorno.php on line 67
+[08-Mar-2019 13:47:01 Asia/Tokyo] PHP Fatal error:  Unsupported operand types in /home1/sitio/public_html/processa/paypal_retorno.php on line 89
+[08-Mar-2019 13:47:43 Asia/Tokyo] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home1/sitio/public_html/processa/paypal_retorno.php on line 42
+[08-Mar-2019 13:47:43 Asia/Tokyo] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home1/sitio/public_html/processa/paypal_retorno.php on line 71
+[08-Mar-2019 13:47:43 Asia/Tokyo] PHP Fatal error:  Unsupported operand types in /home1/sitio/public_html/processa/paypal_retorno.php on line 93
+[08-Mar-2019 13:48:57 Asia/Tokyo] PHP Fatal error:  Unsupported operand types in /home1/sitio/public_html/processa/paypal_retorno.php on line 93
+[08-Mar-2019 13:50:07 Asia/Tokyo] PHP Fatal error:  Unsupported operand types in /home1/sitio/public_html/processa/paypal_retorno.php on line 115
+[08-Mar-2019 13:52:10 Asia/Tokyo] PHP Fatal error:  Unsupported operand types in /home1/sitio/public_html/processa/paypal_retorno.php on line 115
+[08-Mar-2019 13:53:58 Asia/Tokyo] PHP Fatal error:  Unsupported operand types in /home1/sitio/public_html/processa/paypal_retorno.php on line 115
+[08-Mar-2019 13:58:44 Asia/Tokyo] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home1/sitio/public_html/processa/paypal_retorno.php on line 64
+[08-Mar-2019 13:58:44 Asia/Tokyo] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home1/sitio/public_html/processa/paypal_retorno.php on line 93
+[08-Mar-2019 14:28:05 Asia/Tokyo] PHP Warning:  include(header.php): failed to open stream: No such file or directory in /home1/sitio/public_html/processa/proc_cad_pedido.php on line 496
+[08-Mar-2019 14:28:05 Asia/Tokyo] PHP Warning:  include(header.php): failed to open stream: No such file or directory in /home1/sitio/public_html/processa/proc_cad_pedido.php on line 496
+[08-Mar-2019 14:28:05 Asia/Tokyo] PHP Warning:  include(): Failed opening 'header.php' for inclusion (include_path='.:/opt/php56/lib/php') in /home1/sitio/public_html/processa/proc_cad_pedido.php on line 496
+[08-Mar-2019 14:28:05 Asia/Tokyo] PHP Warning:  include(footers.php): failed to open stream: No such file or directory in /home1/sitio/public_html/processa/proc_cad_pedido.php on line 690
+[08-Mar-2019 14:28:05 Asia/Tokyo] PHP Warning:  include(footers.php): failed to open stream: No such file or directory in /home1/sitio/public_html/processa/proc_cad_pedido.php on line 690
+[08-Mar-2019 14:28:05 Asia/Tokyo] PHP Warning:  include(): Failed opening 'footers.php' for inclusion (include_path='.:/opt/php56/lib/php') in /home1/sitio/public_html/processa/proc_cad_pedido.php on line 690
+[08-Mar-2019 14:36:54 Asia/Tokyo] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home1/sitio/public_html/pedido.php on line 31
+[08-Mar-2019 14:38:01 Asia/Tokyo] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home1/sitio/public_html/processa/email_pedido.php on line 3
+[08-Mar-2019 14:38:01 Asia/Tokyo] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home1/sitio/public_html/processa/email_pedido.php on line 98
+[08-Mar-2019 14:38:01 Asia/Tokyo] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home1/sitio/public_html/processa/email_pedido.php on line 170
+[08-Mar-2019 14:38:01 Asia/Tokyo] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home1/sitio/public_html/processa/email_pedido.php on line 190
+[08-Mar-2019 14:40:50 Asia/Tokyo] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home1/sitio/public_html/processa/email_pedido.php on line 3
+[08-Mar-2019 14:40:50 Asia/Tokyo] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home1/sitio/public_html/processa/email_pedido.php on line 98
+[08-Mar-2019 14:40:50 Asia/Tokyo] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home1/sitio/public_html/processa/email_pedido.php on line 170
+[08-Mar-2019 14:40:50 Asia/Tokyo] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home1/sitio/public_html/processa/email_pedido.php on line 190
+[08-Mar-2019 14:41:36 Asia/Tokyo] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home1/sitio/public_html/processa/email_pedido.php on line 3
+[08-Mar-2019 14:41:36 Asia/Tokyo] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home1/sitio/public_html/processa/email_pedido.php on line 98
+[08-Mar-2019 14:41:36 Asia/Tokyo] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home1/sitio/public_html/processa/email_pedido.php on line 170
+[08-Mar-2019 14:41:36 Asia/Tokyo] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home1/sitio/public_html/processa/email_pedido.php on line 190
+[08-Mar-2019 14:43:35 Asia/Tokyo] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home1/sitio/public_html/processa/email_pedido.php on line 3
+[08-Mar-2019 14:43:35 Asia/Tokyo] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home1/sitio/public_html/processa/email_pedido.php on line 98
+[08-Mar-2019 14:43:35 Asia/Tokyo] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home1/sitio/public_html/processa/email_pedido.php on line 170
+[08-Mar-2019 14:43:35 Asia/Tokyo] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home1/sitio/public_html/processa/email_pedido.php on line 190
+[08-Mar-2019 14:56:45 Asia/Tokyo] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home1/sitio/public_html/processa/email_pedido.php on line 3
+[08-Mar-2019 14:56:45 Asia/Tokyo] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home1/sitio/public_html/processa/email_pedido.php on line 98
+[08-Mar-2019 14:56:45 Asia/Tokyo] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home1/sitio/public_html/processa/email_pedido.php on line 170
+[08-Mar-2019 14:56:45 Asia/Tokyo] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home1/sitio/public_html/processa/email_pedido.php on line 190
+[08-Mar-2019 14:57:08 Asia/Tokyo] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home1/sitio/public_html/processa/email_pedido.php on line 170
+[08-Mar-2019 14:57:08 Asia/Tokyo] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home1/sitio/public_html/processa/email_pedido.php on line 190
+[08-Mar-2019 14:58:15 Asia/Tokyo] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home1/sitio/public_html/processa/email_pedido.php on line 170
+[08-Mar-2019 14:58:15 Asia/Tokyo] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home1/sitio/public_html/processa/email_pedido.php on line 190
+[08-Mar-2019 14:58:56 Asia/Tokyo] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home1/sitio/public_html/processa/email_pedido.php on line 170
+[08-Mar-2019 14:58:56 Asia/Tokyo] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home1/sitio/public_html/processa/email_pedido.php on line 190
+[08-Mar-2019 14:59:17 Asia/Tokyo] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home1/sitio/public_html/processa/email_pedido.php on line 173
+[08-Mar-2019 14:59:17 Asia/Tokyo] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home1/sitio/public_html/processa/email_pedido.php on line 193
+[08-Mar-2019 14:59:33 Asia/Tokyo] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home1/sitio/public_html/processa/email_pedido.php on line 173
+[08-Mar-2019 14:59:33 Asia/Tokyo] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home1/sitio/public_html/processa/email_pedido.php on line 193
+[08-Mar-2019 15:00:46 Asia/Tokyo] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home1/sitio/public_html/processa/email_pedido.php on line 175
+[08-Mar-2019 15:00:46 Asia/Tokyo] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home1/sitio/public_html/processa/email_pedido.php on line 195
+[08-Mar-2019 15:01:51 Asia/Tokyo] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home1/sitio/public_html/processa/email_pedido.php on line 170
+[08-Mar-2019 15:01:51 Asia/Tokyo] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home1/sitio/public_html/processa/email_pedido.php on line 190
+[08-Mar-2019 15:44:43 Asia/Tokyo] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home1/sitio/public_html/processa/email_pedido.php on line 3
+[08-Mar-2019 15:44:43 Asia/Tokyo] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home1/sitio/public_html/processa/email_pedido.php on line 98
+[08-Mar-2019 15:44:43 Asia/Tokyo] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home1/sitio/public_html/processa/email_pedido.php on line 170
+[08-Mar-2019 15:44:43 Asia/Tokyo] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home1/sitio/public_html/processa/email_pedido.php on line 190
+[08-Mar-2019 15:46:33 Asia/Tokyo] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home1/sitio/public_html/processa/email_pedido.php on line 3
+[08-Mar-2019 15:46:33 Asia/Tokyo] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home1/sitio/public_html/processa/email_pedido.php on line 98
+[08-Mar-2019 15:46:33 Asia/Tokyo] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home1/sitio/public_html/processa/email_pedido.php on line 170
+[08-Mar-2019 15:46:33 Asia/Tokyo] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home1/sitio/public_html/processa/email_pedido.php on line 190
